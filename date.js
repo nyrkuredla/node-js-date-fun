@@ -40,6 +40,6 @@ function isLeapYear () {
     console.log("It " + chalk.green("is") + " a leap year.")
   }
   else {
-    console.log("It " + chalk.red("is not") + " a leap year.")
+    console.log("It " + chalk.red("is not") + "s a leap year.")
   }
 }
